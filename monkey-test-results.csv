@@ -1,0 +1,6 @@
+Timestamp,TestID,Action,Status
+2025-10-07T14:31:39.049Z,TST-020,Start conversation,Pass
+2025-10-07T14:31:39.095Z,TST-021,Start chat with provider,Pass
+2025-10-07T14:31:39.103Z,TST-022,Create group,Pass
+2025-10-07T14:31:39.116Z,TST-022,Group created,Pass
+2025-10-07T14:31:39.130Z,TST-022,Group message sent,Pass
